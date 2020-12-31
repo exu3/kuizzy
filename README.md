@@ -1,2 +1,2 @@
 # kuizzy
-a Kahoot clone
+a Kahoot clone courtesy of [@KhushrajRathod](https://github.com/KhushrajRathod)
